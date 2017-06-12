@@ -1,4 +1,4 @@
-## Check live Jungle App here: https://protected-coast-30118.herokuapp.com/
+## Check The Jungle App here: https://protected-coast-30118.herokuapp.com/
 # Project Description
 Jungle is an e-commerce web application which allows store owners to update products based on their inventory and also lets customers select a product and pay for their purchase online using their credit card. There are reviews for each product which are written by customers and the average rating is visible on the main page for each product in order to help customers make decisions easily.
 ## Functional Specifications:
